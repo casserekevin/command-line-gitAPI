@@ -47,7 +47,7 @@ node_modules/
 jspm_packages/
 
 # Output directory
-out/
+out/    
 
 # TypeScript v1 declaration files
 typings/
